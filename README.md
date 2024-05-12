@@ -1,0 +1,1 @@
+Use the Visual Studio 2022 compiler to implement various data structures based on C++ language. Including trees, lists, queues, graphs, stacks, strings, and some commonly used arrangement methods. Most data structures use chaining methods and use templates.
